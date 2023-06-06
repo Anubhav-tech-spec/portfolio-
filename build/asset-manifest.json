@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07693958.css",
+    "main.js": "/static/js/main.2c8ac49d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/wallpapersden.com_ghostrunner-4k-gaming_3840x2160.jpg": "/static/media/wallpapersden.com_ghostrunner-4k-gaming_3840x2160.aad38126d1e6d86812a5.jpg",
+    "static/media/pexels-hasan-albari-1229861.jpg": "/static/media/pexels-hasan-albari-1229861.764c542f19e12e322696.jpg",
+    "index.html": "/index.html",
+    "main.07693958.css.map": "/static/css/main.07693958.css.map",
+    "main.2c8ac49d.js.map": "/static/js/main.2c8ac49d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07693958.css",
+    "static/js/main.2c8ac49d.js"
+  ]
+}
